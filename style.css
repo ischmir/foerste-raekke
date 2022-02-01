@@ -4,8 +4,12 @@ body {
 
 h1 {
     color: dodgerblue;
+    font-weight: bold;
+    text-align: center;
 }
 
 p {
     color: yellow;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
